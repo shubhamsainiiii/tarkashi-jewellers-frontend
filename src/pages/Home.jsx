@@ -17,7 +17,7 @@ import sell from "../assets/images/sell.jpg";
 
 import slider1 from "../assets/images/slider1.jpg";
 import slider2 from "../assets/images/slider2.jpg";
-import slider3 from "../assets/images/slider4.png";
+import slider3 from "../assets/images/slider4.jpg";
 
 import slidermobile1 from "../assets/images/slidermobile1.jpg";
 import slidermobile2 from "../assets/images/slidermobile2.jpg";
