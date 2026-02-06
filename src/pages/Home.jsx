@@ -11,9 +11,9 @@ import { getImageUrl } from "../utils/helper";
 import ImageSlider from "../Home/ImageSlider";
 
 // Images
-import rent from "../assets/images/rent.jpg";
-import buy from "../assets/images/buy.jpg";
-import sell from "../assets/images/sell.jpg";
+import rent from "../assets/images/slidermobile1.jpg";
+import buy from "../assets/images/slidermobile1.jpg";
+import sell from "../assets/images/slidermobile1.jpg";
 
 import slider1 from "../assets/images/slider1.jpg";
 import slider2 from "../assets/images/slider2.jpg";

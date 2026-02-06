@@ -7,7 +7,7 @@ import "react-lazy-load-image-component/src/effects/blur.css";
 import { LazyLoadImage } from "react-lazy-load-image-component";
 import aboutImgDesktop from "../assets/images/slider1.jpg";
 import aboutImgMobile from "../assets/images/slidermobile2.jpg";
-import buy from "../assets/images/buy.jpg";
+import buy from "../assets/images/slidermobile1.jpg";
 /* ================= ANIMATION VARIANTS ================= */
 const fadeUp = {
     hidden: { opacity: 0, y: 40 },
